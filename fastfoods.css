@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://static2.bigstockphoto.com/0/4/3/large1500/340433977.jpg");
+    background-repeat:inherit;
+    height: 650px;
+    width:100%;
+
+}
+p{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+pre{
+    text-align: center;
+    color: lawngreen;
+    font-size: 70px;
+    margin: 0;
+    font-family: cursive, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+hr{
+    margin-top: 0px;
+    width: 75%;
+    margin-bottom: 0;
+}
+img{
+    border-radius: 100%;
+    margin: 50px;
+}
+.ic img{
+    margin-top: 65px;
+    margin-left: 65px;
+    margin-right: 65px;
+}
+.men a{
+    margin-left: 80px;
+    font-size:30px;
+    text-decoration: none;
+    margin-top: 0;
+    color: violet;
+}
+
+
+#c{
+    margin-left: 130px;
+    margin-top: -19px;
+}
+#i{
+    margin-left: 260px;
+    margin-top: 0px;
+}
+#h{
+    margin-left: 260px ;
+    margin-top: 0px;
+}
+#s{
+    margin-left: 240px;
+    margin-top: 0px;
+}ul{
+    margin-top:10px;
+    padding: 0 70px;
+    list-style: none;
+    line-height: 36px;
+    height: 36px;
+    background-color: rgb(176, 232, 241);
+    font-family: 'Courier New', Courier, monospace;
+}
+li{
+    float: left;
+    background-color: rgb(176, 232, 241);
+    
+
+}
+.o a{
+    display: block;
+    padding: 0 70px;
+    color: rgb(255, 0, 212);
+    text-decoration: none;
+
+}
+.o a:hover{
+    background-color: #15e2af;
+    color: rgb(125, 250, 9);
+    font-weight: bolder;
+    border-radius: 20px;
+    font-size: 17px;
+
+  
+
+}
+#act a{
+    background-color: #15e2af;
+    border-radius: 20px;
+    font-size: 17px;
+    color: chocolate;
+
+
+}
+#act a{
+    display: block;
+    padding: 0 70px;
+    color: #fff;
+    text-decoration: none;
+}

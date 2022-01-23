@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://cdn6.f-cdn.com/contestentries/1415845/28106710/5ba16fe7363ce_thumb900.jpg");
+    background-position:fixed;
+    background-attachment: fixed;
+}
+.ut a{
+    text-decoration: none;
+    color: black;
+    background-color: wheat;
+    border: thistle 1px solid;
+    border-radius:20px ;
+    font-size: 18px;
+    padding-left:10px;
+    padding-right: 10px;
+}
+li{
+    list-style: none;
+}
